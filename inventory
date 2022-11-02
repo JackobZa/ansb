@@ -1,3 +1,4 @@
-172.16.0.5 ansible_ssh_user=server01
-172.16.0.7 ansible_ssh_user=server02
+192.168.0.18 ansbile_ssh_user=server01
+192.168.0.19 ansible_ssh_user=server02
+192.168.0.17 ansible_ssh_user=server03
 
